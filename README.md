@@ -51,7 +51,6 @@ We are using tableland to develop a notes application and are maintaining it alo
 # Filecoin Data Tools
 We are developing FVM Calc, an open-source analytics tool and an OSS spreadsheet to enable data tabulation, visualization, organization, collaboration for CAD asset files on Filecoin network.
 
-We are also developing a socially scalable and open-source metadata retrieval, indexing, and management infrastructure for decentralized CAD asset development and user training. Bandwidth is a major issue in South Asian classrooms and Filecoin Data tools fit right at the spot for quick data retrieval where learning via video streaming is not possible due to high latency or unavailability of a network for streaming.
 
 Link: https://github.com/aspiringsecurity/Web3CADTools/tree/main/design-nft-storage-to-ipfs/filecoin-spreadsheet-data-tools
 
@@ -61,5 +60,9 @@ We are utilizing Bacalhau for 2 key modules in FIL CAD:
 - Creating an NFT for the CAD file on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion.
 
 - Invoice Automation: We have developed an invoice dapp with integration with bacalhau for just in time invoicing for design contracts.
+
+# Filecoin saturn dapp for information retrieval and management
+
+We are developing a socially scalable and open-source metadata retrieval, indexing, and management tooling for decentralized CAD asset development and user training. Bandwidth is a major issue in South Asian classrooms and Filecoin Data tools fit right at the spot for quick data retrieval where learning via video streaming is not possible due to high latency or unavailability of a network for streaming.
 
   
