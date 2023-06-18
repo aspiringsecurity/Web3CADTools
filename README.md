@@ -35,4 +35,19 @@ We are using using Filecoin Blockchain and Data Tools, NFT.storage, Tableland an
 
 We are developing a dapp using NFT.storage that let us export the CAD (Computer Aided Design) file generated from Web3 CAD tools as an NFT and upload it to IPFS using NFT.Storage. We are extending NFTUp dapp both for Post PC and PC devices using ionic low code, no code framework and are using FVM Calc for tabulation, organization and export of the CAD file output as an NFT. 
 
+# Filecoin Virtual Machine
+
+FVM enables us to use composable blocks exposed through standardized interfaces, enabling the construction of picture archiving and CAD imaging files. This improves better outcomes in development of design assets and promotes reuability and repurposability, saving time and costs.
+
+
+# Tableland
+We are using tableland to develop a notes application and are maintaining it along with CAD file assets. This enables us to make the CAD asset files searchable, sortable and enables us to reuse and repurpose them for user training. Tableland enables us to document the CAD file output files and store the notes in an RDBMS (SQL) type database.
+
+# Filecoin Data Tools
+We are developing FVM Calc, an open source spreadsheet to enable data tabulation, visualization, organization, collaboration for CAD asset files on Filecoin network.
+
+We are also developing a socially scalable and open-source metadata retrieval, indexing, and management infrastructure for decentralized CAD asset development and user training. Bandwidth is a major issue in South Asian classrooms and Filecoin Data tools fits right at the spot for quick data retrieval where learning via video streaming is not possible due to high latency or unavailability of network for streaming.
+
+
+
   
