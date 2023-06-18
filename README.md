@@ -6,13 +6,25 @@ We wish to enable constructionist learning by empowering Web3 designers, game de
 
 Web3 CAD tools's normal interface is split into five sections:
 
-Toolbox, containing the various basic tools (see below) and application controls (undo, save, new, print)
-Canvas, where the images are drawn and edited
-Color palette, where colors can be chosen (when applicable to the current tool)
-Selector, providing various selectable objects (e.g., brushes, fonts or sub-tools, depending on the current tool)
-Information area, where instructions, tips and encouragement are provided
+- Toolbox, containing the various basic tools (see below) and application controls (undo, save, new, print)
+
+- Canvas, where the images are drawn and edited
+
+- Color palette, where colors can be chosen (when applicable to the current tool)
+
+- Selector, providing various selectable objects (e.g., brushes, fonts or sub-tools, depending on the current tool)
+
+- Information area, where instructions, tips and encouragement are provided
 
 
 Design experiments to try using FIL CAD
 
-- Add stamps and pictures
+- Add stamps and pictures;
+
+- Import images from IPFS and upload images as NFTs to IPFS via NFT.Storage
+
+-  Add notes using pencil and save them to RDBMS using Tableland
+
+-  Encrypt design assets using Lit protocol.
+
+  
