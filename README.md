@@ -19,11 +19,21 @@ Web3 CAD tools's normal interface is split into five sections:
 
 Design experiments to try using FIL CAD
 
-- Add stamps and pictures;
+- Add stamps and pictures to the canvas;
 
 - Import images from IPFS and upload images as NFTs to IPFS via NFT.Storage
 
--  Add notes using pencil and save them to RDBMS using Tableland
+- Data discovery and retrieval of NFTs using Filecoin Saturn.
+
+-  Add notes (meta-data) and save them to RDBMS using Tableland.
+
+- Creating an NFT for the CAD file on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion. 
+
+-  Allocate CAD project assignments with drand randomness on FVM with a Gantt Chart and a project tracker/leaderboard.
+
+- Data tabulation, visualization, organization, and collaboration for CAD asset files on Filecoin network
+
+- Invoice automation of CAD design contracts using bacalhau.
 
 
 # Blockchain Eco-system
