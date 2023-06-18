@@ -27,4 +27,12 @@ Design experiments to try using FIL CAD
 
 -  Encrypt design assets using Lit protocol.
 
+# Blockchain Eco-system
+
+We are using using Filecoin Blockchain and Data Tools, NFT.storage, Tableland and Lit and OSS Web3 tools.
+
+# NFT.Storage
+
+We are developing a dapp using NFT.storage that let us export the CAD (Computer Aided Design) file generated from Web3 CAD tools as an NFT and upload it to IPFS using NFT.Storage. We are extending NFTUp dapp both for Post PC and PC devices using ionic low code, no code framework and are using FVM Calc for tabulation, organization and export of the CAD file output as an NFT. 
+
   
