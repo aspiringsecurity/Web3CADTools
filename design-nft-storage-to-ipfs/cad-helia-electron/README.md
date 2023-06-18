@@ -1,0 +1,3 @@
+We are developing a dapp using Helia (JS implementation of IPFS) along with NFT.storage that let us export the CAD (Computer Aided Design) file generated from Web3 CAD tools as an NFT and upload it to IPFS using NFT.Storage. We are using the Electron example of Helia and are adding features like File (Edit/Delete), Save, save As, Email and print using ionic Capacitor framework plugins to our dapp.
+
+We are extending NFTUp dapp both for Post PC and PC devices using ionic low code, no code framework and are using FVM Calc for tabulation, organization and export of the CAD file output as an NFT.
