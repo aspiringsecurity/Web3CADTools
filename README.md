@@ -45,7 +45,7 @@ FVM enables us to use composable blocks exposed through standardized interfaces,
 
 
 # Tableland
-We are using tableland to develop a notes application and are maintaining it along with CAD file assets. This enables us to make the CAD asset files searchable, sortable and enables us to reuse and repurpose them for user training. Tableland enables us to document the CAD file output files and store the notes in an RDBMS (SQL) type database.
+We are using tableland to develop a notes application and are maintaining it along with CAD file assets. This enables us to make the CAD asset files searchable, sortable and enables us to reuse and repurpose them for user training. Tableland enables us to document the CAD file output files and store the notes in an RDBMS (SQL) type database. Please visit https://github.com/aspiringsecurity/Web3CADTools/tree/main/Web3CAD-suite/Tableland-CAD-Notes-dapp
 
 
 # Filecoin Data Tools
