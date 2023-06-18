@@ -1,4 +1,4 @@
-# Web3 CAD Tools
+# FIL CAD
 
 Developer tools to enable CAD designers and Web3 artists with on-chain and open source raster graphics editor for free form drawing, editing using Filecoin and Web3 ecosystem tools.
 
@@ -55,6 +55,11 @@ We are also developing a socially scalable and open-source metadata retrieval, i
 
 Link: https://github.com/aspiringsecurity/Web3CADTools/tree/main/design-nft-storage-to-ipfs/filecoin-spreadsheet-data-tools
 
+# Bacalhau
+We are utilizing Bacalhau for 2 key modules in FIL CAD:
 
+- Creating an NFT for the CAD file on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion.
+
+- Invoice Automation: We have developed an invoice dapp with integration with bacalhau for just in time invoicing for design contracts.
 
   
