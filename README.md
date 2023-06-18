@@ -65,4 +65,12 @@ We are utilizing Bacalhau for 2 key modules in FIL CAD:
 
 We are developing a socially scalable and open-source metadata retrieval, indexing, and management tooling for decentralized CAD asset development and user training. Bandwidth is a major issue in South Asian classrooms and Filecoin Data tools fit right at the spot for quick data retrieval where learning via video streaming is not possible due to high latency or unavailability of a network for streaming.
 
+
+# IPFS
+
+We are developing a dapp using Helia (JS implementation of IPFS) along with NFT.storage that let us export the CAD (Computer Aided Design) file generated from Web3 CAD tools as an NFT and upload it to IPFS using NFT.Storage. We are using the Electron example of Helia and are adding features like File (Edit/Delete), Save, save As, Email and print using ionic Capacitor framework plugins to our dapp.
+
+We are extending NFTUp dapp both for Post PC and PC devices using ionic low code, no code framework and are using FVM Calc for tabulation, organization and export of the CAD file output as an NFT.
+
+Please visit https://github.com/aspiringsecurity/Web3CADTools/tree/main/design-nft-storage-to-ipfs/cad-helia-electron
   
