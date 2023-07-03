@@ -1,0 +1,80 @@
+@use '../../assets/scss/components/button';
+@use 'custom-properties';
+
+.fbutton {
+    &-withicon {
+        .fsvgicon {
+            --fsvgicon-size: var(--fbutton-icon-size);
+        }
+
+        .fbutton_label {
+            display: flex;
+            align-items: center;
+            gap: var(--fbutton-icon-gap);
+        }
+    }
+
+    &-loading {
+        &::before {
+            animation: var(--fbutton-spinner-speed) linear infinite fbutton-spinner;
+            content: '';
+            width: var(--fbutton-icon-size);
+            height: var(--fbutton-icon-size);
+            margin-right: var(--fbutton-icon-gap);
+            background: var(--fbutton-spinner-color);
+            -webkit-mask-image: var(--fbutton-spinner);
+            mask-image: var(--fbutton-spinner);
+            -webkit-mask-repeat: no-repeat;
+            mask-repeat: no-repeat;
+            pointer-events: none;
+        }
+
+        &:not(.fbutton-customspinner)::before {
+            border: solid var(--fbutton-default-spinner-border-width) var(--fbutton-spinner-color);
+            border-bottom-color: transparent;
+            border-radius: 50%;
+            background: none;
+        }
+
+        &.fbutton-nolabel {
+            &::before {
+                margin-right: 0;
+            }
+
+            .fbutton_label {
+                display: none;
+            }
+        }
+
+        &:not(:disabled):hover {
+            --fbutton-spinner-color: var(--f-btn-hover-color);
+        }
+
+        &.fbutton-withicon {
+            .fsvgicon {
+                display: none;
+            }
+        }
+    }
+
+    &.btn {
+        &-secondary.fbutton-loading:not(:hover),
+        &-secondary.fbutton-loading:disabled {
+            --fbutton-spinner-color: var(--fbutton-secondary-spinner-color);
+        }
+
+        &-tertiary.fbutton-loading:not(:hover),
+        &-tertiary.fbutton-loading:disabled {
+            --fbutton-spinner-color: var(--fbutton-tertiary-spinner-color);
+        }
+    }
+}
+
+@keyframes fbutton-spinner {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
