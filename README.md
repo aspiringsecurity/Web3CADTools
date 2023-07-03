@@ -5,6 +5,16 @@
 
 We are using Fantom, Covalent, AWS, Filecoin Blockchain and Data Tools, NFT.storage, Tablelan, drand, bacalhau, Filecoin Virtual Machine, Helia with electron and OSS Web3 tools.
 
+
+# Fantom 
+
+Fantom Modules: https://github.com/aspiringsecurity/Web3CADTools/tree/main/Fantom-deployment-modules
+
+# Covalent NFT Dashboard
+
+Please visit: https://github.com/aspiringsecurity/Web3CADTools/tree/main/covalent-nft-dashboard
+
+
 # NFT.Storage
 
 We are developing a dapp using NFT.storage that let us export the CAD (Computer Aided Design) file generated from Web3 CAD tools as an NFT and upload it to IPFS using NFT.Storage. We are extending NFTUp dapp both for Post PC and PC devices using ionic low code, no code framework and are using FVM Calc for tabulation, organization and export of the CAD file output as an NFT. Please visit https://github.com/aspiringsecurity/Web3CADTools/tree/main/design-nft-storage-to-ipfs
