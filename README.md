@@ -1,44 +1,9 @@
-# FIL CAD
-
-Developer tools to enable CAD designers and Web3 artists with on-chain and open source raster graphics editor for free form drawing, editing using Filecoin and Web3 ecosystem tools.
-
-We wish to enable constructionist learning by empowering Web3 designers, game developer community and DeSci educators to build design assets and empower their artistic aspirations utilizing filecoin/IPFS's strengths in information eco-system.
-
-Web3 CAD tools's normal interface is split into five sections:
-
-- Toolbox, containing the various basic tools (see below) and application controls (undo, save, new, print)
-
-- Canvas, where the images are drawn and edited
-
-- Color palette, where colors can be chosen (when applicable to the current tool)
-
-- Selector, providing various selectable objects (e.g., brushes, fonts or sub-tools, depending on the current tool)
-
-- Information area, where instructions, tips and encouragement are provided
-
-
-Design experiments to try using FIL CAD
-
-- Add stamps and pictures to the canvas;
-
-- Import images from IPFS and upload images as NFTs to IPFS via NFT.Storage
-
-- Data discovery and retrieval of NFTs using Filecoin Saturn.
-
--  Add notes (meta-data) and save them to RDBMS using Tableland.
-
-- Creating an NFT for the CAD file on the Filecoin Virtual Machine (FVM / FEVM) with Bacalhau Stable Diffusion. 
-
--  Allocate CAD project assignments with drand randomness on FVM with a Gantt Chart and a project tracker/leaderboard.
-
-- Data tabulation, visualization, organization, and collaboration for CAD asset files on Filecoin network
-
-- Invoice automation of CAD design contracts using bacalhau.
+# Web3 CAD Tools
 
 
 # Blockchain Eco-system
 
-We are using Filecoin Blockchain and Data Tools, NFT.storage, Tablelan, drand, bacalhau, Filecoin Virtual Machine, Helia with electron and OSS Web3 tools.
+We are using Fantom, Covalent, AWS, Filecoin Blockchain and Data Tools, NFT.storage, Tablelan, drand, bacalhau, Filecoin Virtual Machine, Helia with electron and OSS Web3 tools.
 
 # NFT.Storage
 
