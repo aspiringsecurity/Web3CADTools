@@ -33,7 +33,7 @@ We are using Fantom, Covalent, AWS, Filecoin Blockchain and Data Tools, NFT.stor
 
 # Fantom 
 
-Fantom Modules: https://github.com/aspiringsecurity/Web3CADTools/tree/main/Fantom-deployment-modules
+Fantom Modules: https://github.com/aspiringsecurity/Web3CADTools/tree/main/Web3CAD-suite and https://github.com/aspiringsecurity/Web3CADTools/tree/main/Fantom-deployment-modules
 
 
 # Covalent NFT Dashboard
